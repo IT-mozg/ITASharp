@@ -1,0 +1,6 @@
+D:\Study\ITA\Sharp\width\width\bin\Debug\width.exe.config
+D:\Study\ITA\Sharp\width\width\bin\Debug\width.exe
+D:\Study\ITA\Sharp\width\width\bin\Debug\width.pdb
+D:\Study\ITA\Sharp\width\width\obj\Debug\width.csprojResolveAssemblyReference.cache
+D:\Study\ITA\Sharp\width\width\obj\Debug\width.exe
+D:\Study\ITA\Sharp\width\width\obj\Debug\width.pdb

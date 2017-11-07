@@ -1,0 +1,6 @@
+D:\Study\ITA\Sharp\ValueReferenceExample\ValueReferenceExample\bin\Debug\ValueReferenceExample.exe.config
+D:\Study\ITA\Sharp\ValueReferenceExample\ValueReferenceExample\bin\Debug\ValueReferenceExample.exe
+D:\Study\ITA\Sharp\ValueReferenceExample\ValueReferenceExample\bin\Debug\ValueReferenceExample.pdb
+D:\Study\ITA\Sharp\ValueReferenceExample\ValueReferenceExample\obj\Debug\ValueReferenceExample.csprojResolveAssemblyReference.cache
+D:\Study\ITA\Sharp\ValueReferenceExample\ValueReferenceExample\obj\Debug\ValueReferenceExample.exe
+D:\Study\ITA\Sharp\ValueReferenceExample\ValueReferenceExample\obj\Debug\ValueReferenceExample.pdb

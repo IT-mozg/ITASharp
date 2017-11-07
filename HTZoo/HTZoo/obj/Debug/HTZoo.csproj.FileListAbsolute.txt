@@ -1,0 +1,6 @@
+D:\Study\ITA\Sharp\HTZoo\HTZoo\bin\Debug\HTZoo.exe.config
+D:\Study\ITA\Sharp\HTZoo\HTZoo\bin\Debug\HTZoo.exe
+D:\Study\ITA\Sharp\HTZoo\HTZoo\bin\Debug\HTZoo.pdb
+D:\Study\ITA\Sharp\HTZoo\HTZoo\obj\Debug\HTZoo.csprojResolveAssemblyReference.cache
+D:\Study\ITA\Sharp\HTZoo\HTZoo\obj\Debug\HTZoo.exe
+D:\Study\ITA\Sharp\HTZoo\HTZoo\obj\Debug\HTZoo.pdb
