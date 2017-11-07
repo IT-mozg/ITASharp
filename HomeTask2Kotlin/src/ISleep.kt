@@ -1,3 +1,0 @@
-interface ISleep {
-    fun sleep();
-}
